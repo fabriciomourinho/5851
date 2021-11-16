@@ -11,10 +11,17 @@ A modelagem da desconexão em cascata foi realizada no arquivo .DYN. Os demais a
 Os seguintes arquivos são necessários para a realização das simulações:
 
 Organon.prm                // arquivo de configurações
+
 BNT1_para_DIR03-GD5.dat    // arquivo com dados de máquinas
-DIR03-GD10.pwf             // ponto de operação inicial do fluxo de potência
+
+CASO03.pwf                 // ponto de operação inicial do fluxo de potência
+
 FEV2021_V3_uni-GD5.dyn     // modelagem eletromecânica da rede
+
 DEF_XGET_2Q2020.def        // definições para variações nas regiões de segurança
+
 EVT_BIPXG_DUPLA_TUXG.evt   // contingências simuladas
+
 SEP_BMONTE_32.SPS          // representação de sistema especial de proteção 
+
 PLOT-FM.plv                // plotagem de saída
