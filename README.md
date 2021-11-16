@@ -1,4 +1,4 @@
-# 5851
+# IEEE Latin America Transactions - 5851
 A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability
 
 São incluídos os arquivos necessários para a realização das simulações do Artigo submetido a IEEE Transactions on Latin America "5851 - A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability". 
