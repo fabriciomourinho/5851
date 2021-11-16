@@ -2,7 +2,7 @@
 # IEEE Latin America Transactions - 5851
 A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability
 
-São incluídos os arquivos necessários para a realização das simulações do Artigo submetido a IEEE Transactions on Latin America "5851 - A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability". 
+São incluídos os arquivos necessários para a realização das simulações do Artigo submetido a IEEE Latin America Transcactions "5851 - A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability". 
 
 Todas as simulações foram realizadas utilizando o software Organon, ferramenta empregada pelo Operador Nacional do Sistema Elétrico no planejamento da operação e na operação em tempo real do Sistema Interligado Nacional. A base de dados utilizada é a base de dados oficial do Sistema Interligado Nacional, com a inclusão da modelagem da desconexão em cascata de GDs, tal como apresentada no artigo. 
 
