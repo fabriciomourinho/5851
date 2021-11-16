@@ -2,6 +2,32 @@
 # IEEE Latin America Transactions - 5851
 A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability
 
+The files necessary to carry out the simulations of the Article submitted to IEEE Latin America Transcactions "5851 - A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability" are included.
+
+All simulations were performed using the Organon software, a tool used by the Brazilian Interconnected Electric System Operator, in the operation planning and real-time operation of the Brazilian Interconnected Power System. The database used is the official database of the Brazilian Interconnected Power System, with the inclusion of the cascade disconnection modeling of DGs, as presented in the article.
+
+Cascading disconnect modeling was performed in the .DYN file. The other files were configured for the execution of the security regions, according to the premises and criteria defined in the paper.
+
+The following files are required to carry out the simulations:
+
+organon.prm // settings file
+
+BNT1_para_DIR03-GD5.dat // file with machine data
+
+CASE03.pwf // power flow initial operating point
+
+FEV2021_V3_uni-GD5.dyn // electromechanical modeling of the network and equipment
+
+DEF_XGET_2Q2020.def // definitions for DSA
+
+EVT_BIPXG_DUPLA_TUXG.evt // simulated contingencies
+
+SEP_BMONTE_32.SPS // Special Protection System Representation
+
+PLOT-FM.plv // output plot
+
+Em português:
+
 São incluídos os arquivos necessários para a realização das simulações do Artigo submetido a IEEE Latin America Transcactions "5851 - A new approach to retrofit plans for distributed energy resources to mitigate adverse impacts on bulk power systems stability". 
 
 Todas as simulações foram realizadas utilizando o software Organon, ferramenta empregada pelo Operador Nacional do Sistema Elétrico no planejamento da operação e na operação em tempo real do Sistema Interligado Nacional. A base de dados utilizada é a base de dados oficial do Sistema Interligado Nacional, com a inclusão da modelagem da desconexão em cascata de GDs, tal como apresentada no artigo. 
